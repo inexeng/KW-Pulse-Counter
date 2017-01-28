@@ -8,8 +8,8 @@ Sensor Specifications:
     Pulse Output: TTL synchronised with the LED light pulses of energy meter.
     Sensing Spectrum: IR to Light
     Indicator: LED light at the top which synchronises with the pulses
-    Suitable for: all types of utility meters with pulse output: single-phase, multi-phase meters, water gas and electricity
-    Sticky attachment 
+    Suitable for: all types of utility meters with pulse output
+    Velcro Sticky "ring" attachment 
     Power supply: 3.3V - 5V 
     Diameter: 22mm 
     RJ45 Connector
